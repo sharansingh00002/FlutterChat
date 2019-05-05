@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893386841863",
+    "firebase_url": "https://chatbook-f67de.firebaseio.com",
+    "project_id": "chatbook-f67de",
+    "storage_bucket": "chatbook-f67de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893386841863:android:37a07d65b9e81801",
+        "android_client_info": {
+          "package_name": "co.sharan.chatbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893386841863-dkqcgmcu00i80qqlgovbgt2iu4paaaq0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.sharan.chatbook",
+            "certificate_hash": "14690df3746449ae544670602c526d950ee4fffc"
+          }
+        },
+        {
+          "client_id": "893386841863-31m6rr6m4ctesghd3r15ui64fgobhsp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTkfHRjCZTA4x6C7_NBpfZZXlvfI04L2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893386841863-31m6rr6m4ctesghd3r15ui64fgobhsp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
